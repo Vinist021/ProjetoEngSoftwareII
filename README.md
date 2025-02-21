@@ -2,5 +2,7 @@
  
     Sistema de Consultoria a Especialista.
 
- O sistema de consultoria a especialista para tarefas domésticas é uma plataforma que auxilia usuários na realização de atividades cotidianas em casa. Ele facilita o acesso ao conhecimento de especialistas para fornecer recomendações personalizadas, tutoriais e suporte técnico para diversas tarefas, como montagem de moveis, reparos, pintura, jardinagem, eletrodomésticos, serviços elétricos, encanamento e mecânica.
-O sistema funciona através de uma interface interativa onde os usuários podem buscar especialistas de acordo com suas necessidades e preferencias e receber orientações detalhadas ou conselhos. Com a possibilidade de especialistas filtrarem os pedidos de assistência pela descrições e escolher.
+ Trata-se de um sistema de consultoria com enfoque em atividades técnicas realizadas em âmbito doméstico que facilita o acesso ao conhecimento de especialistas para fornecer recomendações personalizadas, tutoriais e suporte técnico para diversas tarefas por meio de videoconferências, como montagem de moveis, reparos, pintura, jardinagem,  instalação e reparo de eletrodomésticos, serviços elétricos, encanamento, mecânica, organização de espaço e bricolagem.
+O sistema funciona através de uma interface interativa em que os consultores disponibilizam os valores de seu atendimento e suas qualificações em seu perfil e os usuários podem buscá-los de acordo com suas necessidades e preferências e solicitar contato para receber orientações detalhadas ou conselhos. Logo após, o especialista decide se aceita ou recusa o chamado.
+
+Tecnologias utilizadas:
