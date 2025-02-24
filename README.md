@@ -8,9 +8,7 @@ O sistema funciona através de uma interface interativa em que os consultores di
 
 A forma de monetização do aplicativo será por meio de uma taxa de comissão cobrada sobre cada contrato fechado entre cliente e consultor, essa taxa é fixada em 15% do valor total do contrato. 
 
-Tecnologias utilizadas: 
-*Java
-*SQLite
-*Android SDK
-*Figma
+Tecnologias utilizadas: Java | SQLite | Android SDK | Figma
+
+Integrantes do grupo: Vinicius dos Santos Teixeira, Eric Segura Pereira Costa, Luiz Felipe Faustino Soares, Thiago Monteiro Costa, Pablo Vinicius de Camargo.
 
