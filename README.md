@@ -1,6 +1,5 @@
-# ProjetoEngSoftwareII
+# Sistema de Consultoria a Especialista
  
-    Sistema de Consultoria a Especialista.
 
  Trata-se de um sistema de consultoria com enfoque em atividades técnicas realizadas em âmbito doméstico que facilita o acesso ao conhecimento de especialistas para fornecer recomendações personalizadas, tutoriais e suporte técnico para diversas tarefas por meio de videoconferências, como montagem de moveis, reparos, pintura, jardinagem, instalação e reparo de eletrodomésticos, serviços elétricos, encanamento, mecânica, organização de espaço. 
 
