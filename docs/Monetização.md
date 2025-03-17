@@ -1,7 +1,7 @@
-1. Identificação do Projeto
+Sistema de Consultoria a Especialista
 
-Nome do Projeto:
-Descrição Resumida:
+Nome do Projeto: ó la em casa
+Descrição Resumida: 
 Público-Alvo:
 2. Modelos de Monetização Possíveis
 (Escolha um ou mais modelos e justifique a escolha)
