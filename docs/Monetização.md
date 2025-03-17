@@ -1,11 +1,11 @@
-Sistema de Consultoria a Especialista
+# Sistema de Consultoria a Especialista
 
-Nome do Projeto: ó la em casa
-Descrição Resumida: 
+## Ó la em casa
 
+resumo do sistema: Trata-se de um sistema de consultoria com enfoque em atividades técnicas realizadas em âmbito doméstico que facilita o acesso ao conhecimento de especialistas para fornecer recomendações personalizadas, tutoriais e suporte técnico para diversas tarefas por meio de videoconferências, como montagem de moveis, reparos, pintura, jardinagem, instalação e reparo de eletrodomésticos, serviços elétricos, encanamento, mecânica, organização de espaço.
 
+Público-Alvo: o publico que busca consultoria especializada e proficional, e com o conforto de sua residencia ou no aperto de uma emergencia
 
-Público-Alvo:
 2. Modelos de Monetização Possíveis
 (Escolha um ou mais modelos e justifique a escolha)
 
