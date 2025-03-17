@@ -10,6 +10,14 @@ O sistema funciona através de uma interface interativa em que os consultores di
 ## Monetização
 A forma de monetização do aplicativo será por meio de uma taxa de comissão cobrada sobre cada contrato fechado entre cliente e consultor, essa taxa é fixada em 15% do valor total do contrato. 
 
+## Personas 
+
+
+
+## Histórias de Usuário 
+
+[Acesse aqui](https://github.com/Vinist021/ProjetoEngSoftwareII/blob/main/docs%2FhistoriasDeUsuario.md)
+
 **Tecnologias utilizadas** 
 + Java
 + SQLite
