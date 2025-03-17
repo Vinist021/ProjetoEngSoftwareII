@@ -11,3 +11,5 @@ Tecnologias utilizadas: Java | SQLite | Android SDK | Figma
 
 Integrantes do grupo: Vinicius dos Santos Teixeira, Eric Segura Pereira Costa, Luiz Felipe Faustino Soares, Thiago Monteiro Costa, Pablo Vinicius de Camargo.
 
+
+ 
