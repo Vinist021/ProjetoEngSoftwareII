@@ -31,3 +31,5 @@ A forma de monetização do aplicativo será por meio de uma taxa de comissão c
 > * Thiago Monteiro Costa
 > * Pablo Vinicius de Camargo.
 
+
+ 
