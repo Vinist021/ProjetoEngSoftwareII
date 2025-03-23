@@ -1,5 +1,7 @@
 # Sistema de Consultoria a Especialista
 
+![Image](https://github.com/user-attachments/assets/7a9fa256-0e70-426f-9d1f-4cdc9cfa740e)
+
 ## Visão Geral
 
 Trata-se de um sistema de consultoria com enfoque em atividades técnicas realizadas em âmbito doméstico que facilita o acesso ao conhecimento de especialistas para fornecer recomendações personalizadas, tutoriais e suporte técnico para diversas tarefas por meio de videoconferências, como montagem de moveis, reparos, pintura, jardinagem, instalação e reparo de eletrodomésticos, serviços elétricos, encanamento, mecânica, organização de espaço. 
