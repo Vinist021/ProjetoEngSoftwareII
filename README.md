@@ -13,7 +13,7 @@ O sistema funciona através de uma interface interativa em que os consultores di
 A forma de monetização do aplicativo será por meio de uma taxa de comissão cobrada sobre cada contrato fechado entre cliente e consultor, essa taxa é fixada em 15% do valor total do contrato. 
 
 ## Personas 
-
+[Acesse aqui](https://www.canva.com/design/DAGiT4w5dIE/rt8ZfmkY_PF3nlAYYmk95Q/edit)
 
 
 ## Histórias de Usuário 
