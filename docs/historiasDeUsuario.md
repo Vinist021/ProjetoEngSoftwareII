@@ -19,7 +19,7 @@ Como consultor, quero poder entrar em contato de maneira remota
 
 - Como consultor, quero atender pessoas proximas a minha localidade
 
--Como consultor, quero agentar consultas com dia e horario determinados
+- Como consultor, quero agentar consultas com dia e horario determinados
 
 ## - Cliente
 
