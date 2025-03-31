@@ -6,27 +6,35 @@ resumo do sistema: Trata-se de um sistema de consultoria com enfoque em atividad
 
 Público-Alvo: o publico que busca consultoria especializada e proficional, e com o conforto de sua residencia ou no aperto de uma emergencia
 
-2. Modelos de Monetização Possíveis
-(Escolha um ou mais modelos e justifique a escolha)
+### Modelos de Monetização Possíveis
 
-Venda Direta		
-Assinatura		
-Freemium		
-Publicidade		
-Marketplace		
-Licenciamento		
-Crowdfunding		
-Parcerias/Afiliação		
-3. Estrutura de Precificação
-Custo estimado para o usuário:
-Estratégia de precificação (competitiva, valor agregado, etc.):
-Comparação com concorrentes:
-4. Viabilidade Financeira
-Custos fixos mensais:
-Custos variáveis por usuário:
-Ponto de equilíbrio (quantos clientes são necessários para cobrir os custos?):
-Estimativa de faturamento no primeiro ano:
-5. Escalabilidade e Retenção
-Como o modelo de monetização pode crescer junto com a base de usuários?
-Quais estratégias serão usadas para retenção (descontos, novidades, suporte premium)?
+. Porsentagem sobre as consultorias de 15%
+
+. Assinaturas dos consultores variando em três níveis
+1. Ouro = custa 100 reais por mês com isso para cada curso vendido uma porcentagem ainda menor será cobrada de 5%
+
+2.  Prata = custa 50 reais por mês, com isso para cada curso vendido uma porcentagem inferior será destinada ao site 7,5%
+
+3. Bronze = esse seria de forma gratuita e que que para curso vendido será destinado ao site 15%
+   
+### Estrutura de Precificação
+
+Para os consultados não haverá acréscimo de valores, ou seja o consultado pagara apenas pela consultoria 
+
+Dependerá do tipo de consulta, duração, é tipo de problemas
+
+O maior concorrente seria o getninja, que trabalha de uma forma diferente, lá os prestadores de serviço compra uma moeda virtual e com essa moeda eles podem selecionar através de um quadro de avisos qual cliente ele deseja atender, a partir daí o cliente e o prestador de serviços buscam os melhores valores que irá cobrar
+
+### Viabilidade Financeira
+
+Custos fixos mensais: Serão de aproximadamente 7000 reais entre servidores, licenciamento e nossa manutenção e equipe
+
+Custos variáveis por usuário: de R$ 50,00 ate R$ 700,00 dependendo do valor da consultoria
+
+Ponto de equilíbrio : mais de 300 usuarios
+
+Estimativa de faturamento no primeiro ano: aproximadamente R$84000,00
+
+### Escalabilidade e Retenção
+. Quantos mais consultorias alguém realizar mais totens ele irá receber e dependendo  da quantidade de totens o cliente pode ganhar um certo desconto no próximo curso
 
