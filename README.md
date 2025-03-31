@@ -10,7 +10,7 @@ Trata-se de um sistema de consultoria com enfoque em atividades técnicas realiz
 O sistema funciona através de uma interface interativa em que os consultores disponibilizam os valores de seu atendimento e suas qualificações em seu perfil e os usuários podem buscá-los de acordo com suas necessidades e preferências e solicitar contato para receber orientações detalhadas ou conselhos. Logo após, o especialista decide se aceita ou recusa o chamado. 
 
 ## Monetização
-A forma de monetização do aplicativo será por meio de uma taxa de comissão cobrada sobre cada contrato fechado entre cliente e consultor, essa taxa é fixada em 15% do valor total do contrato. 
+[Acesse aqui](https://github.com/Vinist021/ProjetoEngSoftwareII/blob/main/docs/Monetiza%C3%A7%C3%A3o.md)
 
 ## Personas 
 [Acesse aqui](https://www.canva.com/design/DAGiT4w5dIE/rt8ZfmkY_PF3nlAYYmk95Q/edit)
