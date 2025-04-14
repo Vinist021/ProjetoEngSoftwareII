@@ -1,40 +1,28 @@
 # Historia de Usuarios
 ## - Consultor
 
-- Como consultor, quero um meio de contato com meus clientes
+- Como consultor, quero um meio de contato com meus clientes para poder atendê-los remotamente
 
-- Como consultor, quero poder escolher o preço que vou cobrar 
+- Como consultor, quero definir um valor da consulta para poder escolher quanto desejo cobrar por meus serviços 
 
-- Como consultor, quero ter uma renda extra
+- Como consultor, quero poder definir meus horários de disponibilidade para poder me planejar com relação às consultas
 
-- Como consultor, quero ter horários flexíveis
+- Como consultor, quero poder checar meu saldo disponível para poder saber o quanto posso sacar
 
-- Como consultor, quero receber de maneira fácil para sacar o dinheiro
+- Como consultor, quero poder acessar o perfil dos clientes para poder avaliar sua avaliação 
 
-- Como consultor, quero poder ter uma avaliação inicial dos clientes 
-
-- Como consultor, quero escolher qual dos pedidos vou atender
-
-- Como consultor, quero agentar consultas com dia e horario determinados
+- Como consultor, quero poder verificar quais pedidos recebi diretamente para poder escolher quais vou atender
 
 ## - Cliente
 
-- Como cliente, quero ter ao meu alcance sempre um consultor disponível para sanar minhas duvidas
+- Como cliente, quero poder entrar em uma chamada de video com meu consultor para que ele possa sanar minhas dúvidas
 
-- Como cliente, quero ter uma base sobre valores de serviços cobrados 
+- Como cliente, quero ter acesso à faixa de valor cobrado pelo consultor, para que eu possa me planejar 
 
-- Como cliente, eu quero um avaliar o consultor
+- Como cliente, eu quero poder avaliar o consultor, para que eu informe minha opinião após o atendimento
 
-- Como cliente, quero ter a possibilidade de escolher o consultor 
+- Como cliente, quero poder pesquisar por consultores, para que eu possa escolher e entrar em contato com um consultor específico 
 
-- Como cliente, eu quero interagir com o consultor
+- Como cliente, eu quero poder mandar mensagens por texto para o consultor, para que eu possa me comunicar independente de vídeo.
 
-- Como cliente, não quero que pessoas desconhecidas entrem em minha casa
-
-- Como cliente, eu quero ser capaz de, eu mesma resolver meus problemas com minhas próprias mãos.
-
-- Como cliente, quero suporte personalizado para minha duvida 
-
-- Como cliente, quero agendar dia e horario para ser atendido
-
-
+- Como cliente, quero saber em qual horário posso ser atendido, para que possa me planejar
