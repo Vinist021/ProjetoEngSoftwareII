@@ -20,6 +20,14 @@ O sistema funciona através de uma interface interativa em que os consultores di
 
 [Acesse aqui](https://github.com/Vinist021/ProjetoEngSoftwareII/blob/main/docs%2FhistoriasDeUsuario.md)
 
+## Fluxograma
+
+[Acesse aqui](https://miro.com/welcomeonboard/Wm0xck11YkpHcy9EN1plOFZRQ3p3cmUxQXAwZUVwYVdYNjhNWFQyeE0vNW14MWhlUFdtMDZORXJBQnBuWHVFT0t3OVFNU3owR1NVbGRWcUZLb2RXcE1lZWt1QmE5RmllTnJGR3ZCSGs1a2toaURON091a2YxWlp2b2RDblYzZjJ3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=917672857121)
+
+## Prototipo
+
+[Acesse aqui](https://www.figma.com/proto/3Coc4HWb6jWuZHgj9zwJ8w/%C3%94-l%C3%A1-em-casa?node-id=0-1&t=WvRfyPCyo5AYNuoX-1)
+
 **Tecnologias utilizadas** 
 + Java
 + SQLite
