@@ -11,11 +11,11 @@ Público-Alvo: o publico que busca consultoria especializada e profissional, com
 Porcentagem sobre as consultorias de 15%
 
 Assinaturas dos consultores variando em três níveis
-1. Ouro = custa 100 reais por mês com isso para cada curso vendido uma porcentagem ainda menor será cobrada de 5%
+1. Ouro = custa 100 reais por mês com isso para cada colsultoria vendido uma porcentagem ainda menor será cobrada de 5%
 
-2.  Prata = custa 50 reais por mês, com isso para cada curso vendido uma porcentagem inferior será destinada ao site 7,5%
+2.  Prata = custa 50 reais por mês, com isso para cada colsultoria vendido uma porcentagem inferior será destinada ao site 7,5%
 
-3. Bronze = esse seria de forma gratuita e que que para curso vendido será destinado ao site 15%
+3. Bronze = esse seria de forma gratuita e que que para colsultoria vendido será destinado ao site 15%
    
 ### Estrutura de Precificação
 
