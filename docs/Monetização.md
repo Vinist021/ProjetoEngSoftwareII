@@ -6,7 +6,7 @@ Resumo do sistema: Trata-se de um sistema de consultoria com enfoque em atividad
 
 Público-Alvo: o publico que busca consultoria especializada e profissional, com o conforto de sua residencia ou no aperto de uma emergencia.
 
-### Modelos de Monetização Possíveis
+### Modelos de Monetização
 
 Porcentagem sobre as consultorias de 15%
 
