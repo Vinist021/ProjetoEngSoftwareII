@@ -28,6 +28,9 @@ O sistema funciona através de uma interface interativa em que os consultores di
 
 [Acesse aqui](https://www.figma.com/proto/3Coc4HWb6jWuZHgj9zwJ8w/%C3%94-l%C3%A1-em-casa?node-id=0-1&t=WvRfyPCyo5AYNuoX-1)
 
+## Entrega Parcial (Vídeo)
+[Acesse aqui}()
+
 **Tecnologias a serem utilizadas** 
 + Java
 + SQLite
