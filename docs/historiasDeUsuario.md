@@ -11,7 +11,9 @@
 
 - Como consultor, quero poder verificar quais pedidos recebi diretamente para poder escolher quais vou atender
 
-- Como consultor, quero poder avaliar meus clientes após a consulta para poder deixar minhas impressões para outros consultores 
+- Como consultor, quero poder avaliar meus clientes após a consulta para poder deixar minhas impressões para outros consultores
+
+- Como consultor, quero poder alterar as informações cadastradas no meu perfil para que eu possa manter minhas informações atualizadas
 
 ## - Cliente 
 
@@ -24,3 +26,5 @@
 - Como cliente, quero saber em qual horário posso ser atendido, para que possa me planejar
 
 - Como cliente, quero poder definir o valor que desejo pagar em uma consulta quando posto o pedido geral para que eu possa saber o valor que eu vá pagar
+
+- Como cliente, quero poder alterar as informações cadastradas no meu perfil para que eu possa manter minhas informações atualizadas
