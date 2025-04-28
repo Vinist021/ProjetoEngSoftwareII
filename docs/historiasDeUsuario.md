@@ -2,20 +2,16 @@
 ## - Consultor
 
 - Como consultor, quero um meio de que posso atender meus clientes com chamadas de vídeo
-  
-- Como consultor, quero definir um valor da consulta para poder escolher quanto desejo cobrar por meus serviços 
 
 - Como consultor, quero poder definir meus horários de disponibilidade para poder me planejar com relação às consultas
 
 - Como consultor, quero poder checar meu saldo disponível para poder saber o quanto posso sacar
 
-- Como consultor, quero poder acessar o perfil dos clientes para poder ter ciência dos meus clientes 
+- Como consultor, quero poder acessar o perfil dos clientes para poder saber um pouco mais sobre eles
 
 - Como consultor, quero poder verificar quais pedidos recebi diretamente para poder escolher quais vou atender
 
-## - Cliente
-
-- Como cliente, quero ter acesso à faixa de valor cobrado pelo consultor, para que eu possa me planejar 
+## - Cliente 
 
 - Como cliente, eu quero poder avaliar o consultor, para que eu informe minha opinião após o atendimento
 
