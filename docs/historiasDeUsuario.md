@@ -9,7 +9,7 @@
 
 - Como consultor, quero poder checar meu saldo disponível para poder saber o quanto posso sacar
 
-- Como consultor, quero poder acessar o perfil dos clientes para poder avaliar sua avaliação 
+- Como consultor, quero poder acessar o perfil dos clientes para poder ter ciência dos meus clientes 
 
 - Como consultor, quero poder verificar quais pedidos recebi diretamente para poder escolher quais vou atender
 
