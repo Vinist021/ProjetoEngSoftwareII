@@ -40,9 +40,7 @@ O sistema funciona através de uma interface interativa em que os consultores di
 
 **Integrantes do grupo** 
 > * Vinicius dos Santos Teixeira
-> * Eric Segura Pereira Costa
 > * Luiz Felipe Faustino Soares
-> * Thiago Monteiro Costa
 > * Pablo Vinicius de Camargo.
 
 
