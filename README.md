@@ -31,6 +31,9 @@ O sistema funciona através de uma interface interativa em que os consultores di
 ## Entrega Parcial (Vídeo)
 [Acesse aqui](https://drive.google.com/file/d/1y_tWD9Wd0fGwY-mSHIi7jKqJf0cfjKvK/view?usp=drive_link)
 
+## Modelo ER
+[Acesse aqui](https://app.brmodeloweb.com/#!/conceptual/683da923a1f73becf72fb730)
+
 **Tecnologias a serem utilizadas** 
 + Java
 + SQLite
