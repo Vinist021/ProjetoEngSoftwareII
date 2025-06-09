@@ -35,6 +35,3 @@ Ponto de equilíbrio : mais de 300 usuarios
 
 Estimativa de faturamento no primeiro ano: aproximadamente R$84000,00
 
-### Escalabilidade e Retenção
-Quanto mais consultorias alguém realizar mais totens ele irá receber e dependendo  da quantidade de totens o cliente pode ganhar um certo desconto na próxima consulta.
-
