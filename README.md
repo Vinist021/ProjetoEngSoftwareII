@@ -32,7 +32,7 @@ O sistema funciona através de uma interface interativa em que os consultores di
 [Acesse aqui](https://drive.google.com/file/d/1y_tWD9Wd0fGwY-mSHIi7jKqJf0cfjKvK/view?usp=drive_link)
 
 ## Modelo ER
-[Acesse aqui](https://app.brmodeloweb.com/#!/publicview/6846f9ed69695afc14757b01)
+[Acesse aqui](https://app.brmodeloweb.com/#!/publicview/683da923a1f73becf72fb730)
 
 **Tecnologias a serem utilizadas** 
 + Java
