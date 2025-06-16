@@ -34,6 +34,9 @@ O sistema funciona através de uma interface interativa em que os consultores di
 ## Modelo ER
 [Acesse aqui](https://app.brmodeloweb.com/#!/publicview/6846f9ed69695afc14757b01)
 
+## Modelo UML
+[Acesse aqui](https://app.moqups.com/hGfhJCY1VxmhV1uziJ5lYqklG015jYJa/view/page/a8bfb0d3e)
+
 **Tecnologias a serem utilizadas** 
 + Java
 + SQLite
