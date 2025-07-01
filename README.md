@@ -41,7 +41,7 @@ O sistema funciona através de uma interface interativa em que os consultores di
 [Acesse aqui](https://github.com/Vinist021/ProjetoEngSoftwareII/blob/main/docs/Documento%20Final%20Sistema%20de%20Consultoria%20a%20Especialista.pdf)
 
 ## Video Final
-[Acesse aqui]( )
+[Acesse aqui](https://drive.google.com/file/d/1o4TbasU5C5_00LFMGT8cQJSY3Pa9iV_3/view?usp=drive_link )
 
 **Tecnologias a serem utilizadas** 
 + Java
